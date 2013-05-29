@@ -1,1 +1,2 @@
-javascript:alert("farm 00");
+alert("farm 00");
+void(0);
